@@ -1,0 +1,44 @@
+
+
+{
+  "pagination": {
+    "count": 82,
+    "next": null,
+    "previous": null
+  },
+  "sneakers": {
+    "air_jordan_1": [
+      {
+        "id": 1,
+        "name": "Air Jordan 1 Retro High OG",
+        "image_url": "https://trevknows.github.io/Project-Ifrit/images/Air_Jordan_1_Retro_High_OG.png",
+        "price": 150.00,
+        "description": "The Air Jordan 1 Retro High OG delivers heritage style with premium materials and responsive cushioning.",
+        "colorways": ["Black/White", "Bred", "Royal"],
+        "release_date": "2023-04-15",
+        "sizes": ["US 8", "US 9", "US 10"],
+        "style_code": "555088-033",
+        "materials": ["Leather", "Textile"],
+        "collection": "Jordan Retro"
+      },
+      // More Air Jordan 1 sneakers...
+    ],
+    "air_jordan_2": [
+      {
+        "id": 2,
+        "name": "Air Jordan 2 Retro",
+        "image_url": "https://trevknows.github.io/Project-Ifrit/images/Air_Jordan_1_Retro_High_OG'LUCKY_GREEN'.jpg",
+        "price": 160.00,
+        "description": "The Air Jordan 2 Retro features a sleek design and luxurious materials for a premium look and feel.",
+        "colorways": ["Black/Red", "White/Red", "Blue"],
+        "release_date": "2023-05-01",
+        "sizes": ["US 8", "US 9", "US 10"],
+        "style_code": "555088-044",
+        "materials": ["Leather", "Suede"],
+        "collection": "Jordan Retro"
+      },
+      // More Air Jordan 2 sneakers...
+    ],
+    // More Jordan types...
+  }
+}
