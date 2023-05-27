@@ -8,7 +8,7 @@
   },
   "sneakers": {
     "air_jordan_1": [
-      {
+`      {
         "id": 1,
         "name": "Air Jordan 1 Retro High OG",
         "image_url": "https://trevknows.github.io/Project-Ifrit/images/Air_Jordan_1_Retro_High_OG.png",
@@ -20,9 +20,12 @@
         "style_code": "555088-033",
         "materials": ["Leather", "Textile"],
         "collection": "Jordan Retro"
-      },
+      },`
       // More Air Jordan 1 sneakers...
     ],
+    
+    
+    
     "air_jordan_2": [
       {
         "id": 2,
