@@ -683,7 +683,7 @@
 
     "air_jordan_2": [
     {
-    "id": 2,
+    "id": 1,
     "name": "Air Jordan 2 Retro",
     "image_url": "https://trevknows.github.io/Project-Ifrit/images/images/Air_Jordan_1_Retro_High_OG'LUCKY_GREEN'.jpg",
     "price": 160.00,
@@ -697,6 +697,28 @@
     },
     // More Air Jordan 2 sneakers...
     ],
-    // More Jordan types...
+
+
+    "air_jordan_3": [
+    {
+    "id": 1,
+    "name": "Air Jordan 2 Retro",
+    "image_url": "https://trevknows.github.io/Project-Ifrit/images/images/Air_Jordan_1_Retro_High_OG'LUCKY_GREEN'.jpg",
+    "price": 160.00,
+    "description": "The Air Jordan 2 Retro features a sleek design and luxurious materials for a premium look and feel.",
+    "colorways": ["Black/Red", "White/Red", "Blue"],
+    "release_date": "2023-05-01",
+    "sizes": ["US 8", "US 9", "US 10"],
+    "style_code": "555088-044",
+    "materials": ["Leather", "Suede"],
+    "collection": "Jordan Retro"
+    },
+    // More Air Jordan 2 sneakers...
+    ]
+   
+   
     }
+   
+   
+   
     }
