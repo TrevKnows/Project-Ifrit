@@ -1,5 +1,3 @@
-
-
 {
     
         "sneakers": [
@@ -674,7 +672,7 @@
                     {
                         "id": 1,
                         "name": "Air Jordan 2 Retro",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/images/Air_Jordan_1_Retro_High_OG'LUCKY_GREEN'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/Air_Jordan_1_Retro_High_OG'LUCKY_GREEN'.jpg",
                         "price": 160.00,
                         "description": "The Air Jordan 2 Retro features a sleek design and luxurious materials for a premium look and feel.",
                         "colorways": ["Black/Red", "White/Red", "Blue"],
@@ -683,7 +681,7 @@
                         "style_code": "555088-044",
                         "materials": ["Leather", "Suede"],
                         "collection": "Jordan Retro"
-                    }
+                    },
                     
                     
                 ],
@@ -692,8 +690,8 @@
                 "air_jordan_3": [
                     {
                         "id": 1,
-                        "name": "Air Jordan 2 Retro",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/images/Air_Jordan_1_Retro_High_OG'LUCKY_GREEN'.jpg",
+                        "name": "Air Jordan 3 Retro",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/Air_Jordan_1_Retro_High_OG'LUCKY_GREEN'.jpg",
                         "price": 160.00,
                         "description": "The Air Jordan 2 Retro features a sleek design and luxurious materials for a premium look and feel.",
                         "colorways": ["Black/Red", "White/Red", "Blue"],
@@ -702,12 +700,12 @@
                         "style_code": "555088-044",
                         "materials": ["Leather", "Suede"],
                         "collection": "Jordan Retro"
-                    }
+                    },
                     
                 ]
                 
             }
         ]
+    }
     
-    
-}
+
