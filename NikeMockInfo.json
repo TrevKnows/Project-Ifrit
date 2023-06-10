@@ -663,8 +663,7 @@
                         "collection": "Jordan Retro"
                     }
                     
-                ]
-                ,
+                ],
                 
                 "air_jordan_2": [
                     {
@@ -684,7 +683,6 @@
                     
                 ],
                 
-                
                 "air_jordan_3": [
                     {
                         "id": 1,
@@ -698,7 +696,7 @@
                         "style_code": "555088-044",
                         "materials": ["Leather", "Suede"],
                         "collection": "Jordan Retro"
-                    },
+                    }
                     
                 ]
                 
