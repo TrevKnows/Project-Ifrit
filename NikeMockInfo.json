@@ -1,8 +1,6 @@
 {
     
-        "sneakers": [
-            
-            {
+        "sneakers": {
                 
                 "air_jordan_1": [
                     {
@@ -705,7 +703,7 @@
                 ]
                 
             }
-        ]
+        
     }
     
 
