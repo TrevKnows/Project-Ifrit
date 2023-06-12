@@ -1,0 +1,156 @@
+{
+    
+        "sneakers": [
+            
+            {
+                
+                        
+                        "id": 1,
+                        "name": "Off-White x Air Jordan 1 Retro High OG 'UNC'",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/OFF-WHITE X AIR JORDAN 1 RETRO HIGH OG 'UNC'.jpg",
+                        "price": 170,
+                        "description": "The Off-White x Air Jordan 1 Retro High OG 'UNC' is a highly coveted collaboration between Off-White and Jordan Brand. Featuring Virgil Abloh's signature deconstructed design elements, these sneakers combine a classic UNC-inspired color scheme with unique Off-White branding.",
+                        "colorways": ["White/University Blue/Black"],
+                        "release_date": "2022-01-01",
+                        "sizes": ["US 8", "US 9", "US 10"],
+                        "style_code": "654321-987",
+                        "materials": ["Leather"],
+                        "collection": "Air Jordan 1"
+                    },
+                    
+                    {
+                        "id": 2,
+                        "name": "Air Jordan 1 Retro High OG 'Royal Toe'",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH OG 'ROYAL TOE'.jpg",
+                        "price": 170,
+                        "description": "The Air Jordan 1 Retro High OG 'Royal Toe' features a timeless colorway that combines black, white, and royal blue. These sneakers offer a classic and versatile look with premium materials and the iconic Air Jordan 1 silhouette.",
+                        "colorways": ["Black/White/Royal Blue"],
+                        "release_date": "2022-01-01",
+                        "sizes": ["US 8", "US 9", "US 10"],
+                        "style_code": "987654-321",
+                        "materials": ["Leather"],
+                        "collection": "Air Jordan 1"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Air Jordan 1 High 'Chicago' 1985",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 HIGH 'CHICAGO' 1985.jpg",
+                        "price": 170,
+                        "description": "The Air Jordan 1 High 'Chicago' 1985 pays homage to the original 1985 release of the Air Jordan 1. With its iconic red, white, and black color scheme, these sneakers offer a nostalgic and classic look with a touch of basketball history.",
+                        "colorways": ["Red/White/Black"],
+                        "release_date": "1985-01-01",
+                        "sizes": ["US 8", "US 9", "US 10"],
+                        "style_code": "123456-789",
+                        "materials": ["Leather"],
+                        "collection": "Air Jordan 1"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Air Jordan 1 Retro High OG 'Obsidian'",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH OG 'OBSIDIAN'.jpg",
+                        "price": 170,
+                        "description": "The Air Jordan 1 Retro High OG 'Obsidian' showcases a rich combination of navy blue, white, and university blue. These sneakers offer a clean and sophisticated look with premium materials and the iconic Air Jordan 1 design.",
+                        "colorways": ["Navy Blue/White/University Blue"],
+                        "release_date": "2019-08-31",
+                        "sizes": ["US 8", "US 9", "US 10"],
+                        "style_code": "654321-987",
+                        "materials": ["Leather"],
+                        "collection": "Air Jordan 1"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Air Jordan 1 Retro High OG 'Hyper Royal'",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH OG 'HYPER ROYAL'.jpg",
+                        "price": 170,
+                        "description": "The Air Jordan 1 Retro High OG 'Hyper Royal' features a refreshing color combination of hyper royal, sail, and white. These sneakers offer a vibrant and stylish look with premium materials and classic Air Jordan 1 design.",
+                        "colorways": ["Hyper Royal/Sail/White"],
+                        "release_date": "2021-07-17",
+                        "sizes": ["US 8", "US 9", "US 10"],
+                        "style_code": "789123-456",
+                        "materials": ["Leather"],
+                        "collection": "Air Jordan 1"
+                    },
+                    {
+                        "id": 6,
+                        "name": "WMNS Air Jordan 1 Retro High OG 'Reverse Laney'",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/WMNS AIR JORDAN 1 RETRO HIGH OG 'REVERSE LANEY'.jpg",
+                        "price": 170,
+                        "description": "The WMNS Air Jordan 1 Retro High OG 'Reverse Laney' offers a unique twist to the Laney High School color scheme. These sneakers feature a vibrant combination of varsity maize, game royal, and white, offering a bold and stylish look for women.",
+                        "colorways": ["Varsity Maize/Game Royal/White"],
+                        "release_date": "2022-03-01",
+                        "sizes": ["US 5", "US 6", "US 7"],
+                        "style_code": "456789-123",
+                        "materials": ["Leather"],
+                        "collection": "Air Jordan 1"
+                    },
+                    
+                    {
+                        "id": 7,
+                        "name": "WMNS Air Jordan 1 Mid 'Stealth'",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/WMNS AIR JORDAN 1 MID 'STEALTH'.jpg",
+                        "price": 170,
+                        "description": "The WMNS Air Jordan 1 Mid 'Stealth' offers a versatile and stylish option for women. These sneakers feature a combination of black, white, and stealth gray, providing a sleek and modern look.",
+                        "colorways": ["Black/White/Stealth Gray"],
+                        "release_date": "2022-06-15",
+                        "sizes": ["US 5", "US 6", "US 7"],
+                        "style_code": "789123-456",
+                        "materials": ["Leather"],
+                        "collection": "Air Jordan 1"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Air Jordan 1 Retro High OG 'Dark Marina Blue'",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH OG 'DARK MARINA BLUE'.jpg",
+                        "price": 170,
+                        "description": "The Air Jordan 1 Retro High OG 'Dark Marina Blue' showcases a rich and vibrant color scheme. These sneakers feature a combination of dark marina blue, black, and white, offering a bold and eye-catching look.",
+                        "colorways": ["Dark Marina Blue/Black/White"],
+                        "release_date": "2022-07-01",
+                        "sizes": ["US 8", "US 9", "US 10"],
+                        "style_code": "987654-321",
+                        "materials": ["Leather"],
+                        "collection": "Air Jordan 1"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Air Jordan 1 Retro High OG 'Court Purple 2.0'",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH OG 'COURT PURPLE 2.0'.jpg",
+                        "price": 170,
+                        "description": "The Air Jordan 1 Retro High OG 'Court Purple 2.0' offers a fresh take on the classic color blocking. These sneakers feature a combination of court purple, white, and black, providing a clean and vibrant look.",
+                        "colorways": ["Court Purple/White/Black"],
+                        "release_date": "2022-08-01",
+                        "sizes": ["US 8", "US 9", "US 10"],
+                        "style_code": "123456-789",
+                        "materials": ["Leather"],
+                        "collection": "Air Jordan 1"
+                    },
+                    {
+                        "id": 10,
+                        "name": "Air Jordan 1 Mid 'Alternate Bred'",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 MID 'ALTERNATE BRED'.jpg",
+                        "price": 170,
+                        "description": "The Air Jordan 1 Mid 'Alternate Bred' offers a stylish and versatile option for everyday wear. These sneakers feature a combination of black, gym red, and white, providing a classic and timeless look.",
+                        "colorways": ["Black/Gym Red/White"],
+                        "release_date": "2022-09-01",
+                        "sizes": ["US 8", "US 9", "US 10"],
+                        "style_code": "654321-987",
+                        "materials": ["Leather"],
+                        "collection": "Air Jordan 1"
+                    },
+                    {
+                        "id": 11,
+                        "name": "Air Jordan 1 Mid 'Perforated - White University Gold'",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 MID 'PERFORATED - WHITE UNIVERSITY GOLD'.jpg",
+                        "price": 170,
+                        "description": "The Air Jordan 1 Mid 'Perforated - White University Gold' combines classic design with modern details. These sneakers feature a combination of white, university gold, and black, offering a clean and sophisticated look.",
+                        "colorways": ["White/University Gold/Black"],
+                        "release_date": "2022-10-01",
+                        "sizes": ["US 8", "US 9", "US 10"],
+                        "style_code": "789123-456",
+                        "materials": ["Leather"],
+                        "collection": "Air Jordan 1"
+                    }
+                  
+        ]
+    }
+    
+
