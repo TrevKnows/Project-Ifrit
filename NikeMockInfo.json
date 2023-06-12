@@ -1,9 +1,8 @@
 {
     
-        "sneakers": {
+        "sneakers": [
+            {
                 
-                "air_jordan_1": [
-                    {
                         "id": 1,
                         "name": "Air Jordan 1 Retro High OG",
                         "image_url": "https://trevknows.github.io/Project-Ifrit/images/Air_Jordan_1_Retro_High_OG.png",
@@ -661,13 +660,11 @@
                         "style_code": "456123-789",
                         "materials": ["Leather"],
                         "collection": "Jordan Retro"
-                    }
+                    },
                     
-                ],
                 
-                "air_jordan_2": [
                     {
-                        "id": 1,
+                        "id": 51,
                         "name": "Air Jordan 2 Retro",
                         "image_url": "https://trevknows.github.io/Project-Ifrit/images/Air_Jordan_1_Retro_High_OG'LUCKY_GREEN'.jpg",
                         "price": 160.00,
@@ -680,12 +677,8 @@
                         "collection": "Jordan Retro"
                     },
                     
-                    
-                ],
-                
-                "air_jordan_3": [
                     {
-                        "id": 1,
+                        "id": 52,
                         "name": "Air Jordan 3 Retro",
                         "image_url": "https://trevknows.github.io/Project-Ifrit/images/Air_Jordan_1_Retro_High_OG'LUCKY_GREEN'.jpg",
                         "price": 160.00,
@@ -697,11 +690,8 @@
                         "materials": ["Leather", "Suede"],
                         "collection": "Jordan Retro"
                     }
-                    
-                ]
-                
-            }
-        
+                  
+        ]
     }
     
 
