@@ -20,7 +20,7 @@
                     {
                         "id": 2,
                         "name": "Air Jordan 1 Retro High OG Lucky Green",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/Air_Jordan_1_Retro_High_OG'LUCKY_GREEN'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/Air_Jordan_1_Retro_High_OG_LUCKY_GREEN_.jpg",
                         "price": 150.00,
                         "description": "The Air Jordan 1 Retro High OG delivers heritage style with premium materials and responsive cushioning.",
                         "colorways": ["Black/White", "Green"],
@@ -34,7 +34,7 @@
                     {
                         "id": 3,
                         "name": "Air Jordan 1 Retro High OG 'Shattered Backboard'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO HIGH_OG_'SHATTERED_BACKBOARD'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_SHATTERED_BACKBOARD.jpg",
                         "price": 150.00,
                         "description": "The Air Jordan 1 Shattered Backboard features a color scheme inspired by Michael Jordan's famous dunk that shattered the backboard during a Nike exhibition game in 1985. It combines black, white, and orange tones for a bold and unique look.",
                         "colorways": ["Black/White/Orange"],
@@ -48,7 +48,7 @@
                     {
                         "id": 4,
                         "name": "Air Jordan 1 Retro High OG 'White Cement'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_'WHITE_CEMENT'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_WHITE_CEMENT.jpg",
                         "price": 150.00,
                         "description": "The Air Jordan 4 White Cement features a white leather upper with cement gray and black accents. It showcases a classic and timeless design that has become highly sought after by sneaker enthusiasts.",
                         "colorways": ["White/Cement", "Gray/Black"],
@@ -62,7 +62,7 @@
                     {
                         "id": 5,
                         "name": "Air Jordan 1 Retro High OG 'University Blue'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH OG 'UNIVERSITY BLUE'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_UNIVERSITY BLUE.jpg",
                         "price": 150.00,
                         "description": "The Air Jordan 1 University Blue features a combination of white and University Blue leather on the upper with black accents. It offers a clean and stylish look with a pop of color.",
                         "colorways": ["White/University Blue/Black"],
@@ -75,7 +75,7 @@
                     {
                         "id": 6,
                         "name": "Air Jordan 1 Retro High OG 'Dark Mochas'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH OG 'DARK MOCHA'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN_1_RETRO_HIGH_OG_DARK_MOCHA.jpg",
                         "price": 150.00,
                         "description": "The Dark Mochas sneakers feature a sleek combination of dark brown, black, and sail tones. These Air Jordan 1s offer a sophisticated and stylish look with premium materials and a classic design.",
                         "colorways": ["Dark Brown/Black/Sail"],
@@ -88,7 +88,7 @@
                     {
                         "id": 7,
                         "name": "Air Jordan 1 Retro High OG 'Yellow Toe'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH OG 'YELLOW TOE'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_YELLOW_TOE.jpg",
                         "price": 170,
                         "description": "The Yellow Toe sneakers make a bold statement with their vibrant color scheme. These Air Jordan 1s feature a striking combination of black, white, and vibrant yellow, adding a pop of color to your outfit.",
                         "colorways": ["Black/White/Yellow"],
@@ -101,7 +101,7 @@
                     {
                         "id": 8,
                         "name": "Air Jordan 1 Retro High OG 'Skyline'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH OG 'SKYLINE'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_SKYLINE.jpg",
                         "price": 170,
                         "description": "The Skyline sneakers bring a fresh and modern twist to the Air Jordan 1 silhouette. With a mix of various shades of blue and gray, these sneakers offer a contemporary and urban aesthetic.",
                         "colorways": ["Blue/Gray/White"],
@@ -114,7 +114,7 @@
                     {
                         "id": 9,
                         "name": "Air Jordan 1 Retro High OG 'Black White'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH '85 OG 'BLACK WHITE'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_BLACK_WHITE.jpg",
                         "price": 170,
                         "description": "The Black/White Air Jordan 1s are a classic colorway that never goes out of style. With a timeless combination of black and white, these sneakers offer a clean and versatile look suitable for any occasion.",
                         "colorways": ["Black/White"],
@@ -127,7 +127,7 @@
                     {
                         "id": 10,
                         "name": "Travis Scott x Air Jordan 1 Retro High OG 'Mocha'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/TRAVIS SCOTT X AIR JORDAN 1 RETRO HIGH OG 'MOCHA'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/TRAVIS_SCOTT_X_AIR_JORDAN_1_RETRO_HIGH_OG_MOCHA.jpg",
                         "price": 170,
                         "description": "The Travis Scott x Air Jordan 1 Retro High OG 'Mocha' collaboration is a highly sought-after release. These sneakers feature a unique blend of brown, black, and white, with Travis Scott's signature branding and design elements.",
                         "colorways": ["Brown/Black/White"],
@@ -141,7 +141,7 @@
                     {
                         "id": 11,
                         "name": "Air Jordan 1 Retro High OG 'UNC Toe'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH OG 'UNC TOE'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_UNC_TOE.jpg",
                         "price": 170,
                         "description": "The Air Jordan 1 Retro High OG 'UNC Toe' pays homage to Michael Jordan's alma mater, the University of North Carolina. Featuring a combination of white, university blue, and black, these sneakers offer a classic and clean look with a touch of UNC-inspired style.",
                         "colorways": ["White/University Blue/Black"],
@@ -154,7 +154,7 @@
                     {
                         "id": 12,
                         "name": "Air Jordan 1 Retro High OG 'Stage Haze'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH OG 'STAGE HAZE'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_STAGE_HAZE.jpg",
                         "price": 170,
                         "description": "The Air Jordan 1 Retro High OG 'Stage Haze' features a unique and eye-catching colorway with a combination of purple, pink, and black. These sneakers offer a vibrant and energetic look with premium materials and classic Air Jordan 1 design.",
                         "colorways": ["Purple/Pink/Black"],
@@ -167,7 +167,7 @@
                     {
                         "id": 13,
                         "name": "Air Jordan 1 Retro High OG 'Washed Black'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH OG 'WASHED BLACK'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_WASHED_BLACK",
                         "price": 170,
                         "description": "The Air Jordan 1 Retro High OG 'Washed Black' showcases a worn-in, distressed aesthetic with its washed black leather upper. These sneakers offer a vintage and rugged look with a touch of timeless style.",
                         "colorways": ["Washed Black"],
@@ -180,7 +180,7 @@
                     {
                         "id": 14,
                         "name": "Off-White x Air Jordan 1 Retro High OG 'UNC'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/OFF-WHITE X AIR JORDAN 1 RETRO HIGH OG 'UNC'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/OFF-WHITE_X_AIR_JORDAN_1_RETRO_HIGH_OG_OG_UNC.jpg",
                         "price": 170,
                         "description": "The Off-White x Air Jordan 1 Retro High OG 'UNC' is a highly coveted collaboration between Off-White and Jordan Brand. Featuring Virgil Abloh's signature deconstructed design elements, these sneakers combine a classic UNC-inspired color scheme with unique Off-White branding.",
                         "colorways": ["White/University Blue/Black"],
@@ -194,7 +194,7 @@
                     {
                         "id": 15,
                         "name": "Air Jordan 1 Retro High OG 'Royal Toe'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH OG 'ROYAL TOE'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_ROYAL_TOE.jpg",
                         "price": 170,
                         "description": "The Air Jordan 1 Retro High OG 'Royal Toe' features a timeless colorway that combines black, white, and royal blue. These sneakers offer a classic and versatile look with premium materials and the iconic Air Jordan 1 silhouette.",
                         "colorways": ["Black/White/Royal Blue"],
@@ -207,7 +207,7 @@
                     {
                         "id": 16,
                         "name": "Air Jordan 1 High 'Chicago' 1985",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 HIGH 'CHICAGO' 1985.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_HIGH_CHICAGO_1985.jpg",
                         "price": 170,
                         "description": "The Air Jordan 1 High 'Chicago' 1985 pays homage to the original 1985 release of the Air Jordan 1. With its iconic red, white, and black color scheme, these sneakers offer a nostalgic and classic look with a touch of basketball history.",
                         "colorways": ["Red/White/Black"],
@@ -220,7 +220,7 @@
                     {
                         "id": 17,
                         "name": "Air Jordan 1 Retro High OG 'Obsidian'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH OG 'OBSIDIAN'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_OBSIDIAN.jpg",
                         "price": 170,
                         "description": "The Air Jordan 1 Retro High OG 'Obsidian' showcases a rich combination of navy blue, white, and university blue. These sneakers offer a clean and sophisticated look with premium materials and the iconic Air Jordan 1 design.",
                         "colorways": ["Navy Blue/White/University Blue"],
@@ -233,7 +233,7 @@
                     {
                         "id": 18,
                         "name": "Air Jordan 1 Retro High OG 'Hyper Royal'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH OG 'HYPER ROYAL'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_HYPER_ROYAL.jpg",
                         "price": 170,
                         "description": "The Air Jordan 1 Retro High OG 'Hyper Royal' features a refreshing color combination of hyper royal, sail, and white. These sneakers offer a vibrant and stylish look with premium materials and classic Air Jordan 1 design.",
                         "colorways": ["Hyper Royal/Sail/White"],
@@ -246,7 +246,7 @@
                     {
                         "id": 19,
                         "name": "WMNS Air Jordan 1 Retro High OG 'Reverse Laney'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/WMNS AIR JORDAN 1 RETRO HIGH OG 'REVERSE LANEY'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/WMNS_AIR_JORDAN_1_RETRO_HIGH_OG_REVERSE_LANEY.jpg",
                         "price": 170,
                         "description": "The WMNS Air Jordan 1 Retro High OG 'Reverse Laney' offers a unique twist to the Laney High School color scheme. These sneakers feature a vibrant combination of varsity maize, game royal, and white, offering a bold and stylish look for women.",
                         "colorways": ["Varsity Maize/Game Royal/White"],
@@ -260,7 +260,7 @@
                     {
                         "id": 20,
                         "name": "WMNS Air Jordan 1 Mid 'Stealth'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/WMNS AIR JORDAN 1 MID 'STEALTH'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/WMNS_AIR_JORDAN_1_MID_STEALTH.jpg",
                         "price": 170,
                         "description": "The WMNS Air Jordan 1 Mid 'Stealth' offers a versatile and stylish option for women. These sneakers feature a combination of black, white, and stealth gray, providing a sleek and modern look.",
                         "colorways": ["Black/White/Stealth Gray"],
@@ -273,7 +273,7 @@
                     {
                         "id": 21,
                         "name": "Air Jordan 1 Retro High OG 'Dark Marina Blue'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH OG 'DARK MARINA BLUE'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_DARK_MARINA_BLUE.jpg",
                         "price": 170,
                         "description": "The Air Jordan 1 Retro High OG 'Dark Marina Blue' showcases a rich and vibrant color scheme. These sneakers feature a combination of dark marina blue, black, and white, offering a bold and eye-catching look.",
                         "colorways": ["Dark Marina Blue/Black/White"],
@@ -286,7 +286,7 @@
                     {
                         "id": 22,
                         "name": "Air Jordan 1 Retro High OG 'Court Purple 2.0'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH OG 'COURT PURPLE 2.0'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_COURT_PURPLE_2.0.jpg",
                         "price": 170,
                         "description": "The Air Jordan 1 Retro High OG 'Court Purple 2.0' offers a fresh take on the classic color blocking. These sneakers feature a combination of court purple, white, and black, providing a clean and vibrant look.",
                         "colorways": ["Court Purple/White/Black"],
@@ -299,7 +299,7 @@
                     {
                         "id": 23,
                         "name": "Air Jordan 1 Mid 'Alternate Bred'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 MID 'ALTERNATE BRED'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_MID_ALTERNATE_BRED.jpg",
                         "price": 170,
                         "description": "The Air Jordan 1 Mid 'Alternate Bred' offers a stylish and versatile option for everyday wear. These sneakers feature a combination of black, gym red, and white, providing a classic and timeless look.",
                         "colorways": ["Black/Gym Red/White"],
@@ -312,7 +312,7 @@
                     {
                         "id": 24,
                         "name": "Air Jordan 1 Mid 'Perforated - White University Gold'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 MID 'PERFORATED - WHITE UNIVERSITY GOLD'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_MID_PERFORATED_WHITE_UNIVERSITY_GOLD.jpg",
                         "price": 170,
                         "description": "The Air Jordan 1 Mid 'Perforated - White University Gold' combines classic design with modern details. These sneakers feature a combination of white, university gold, and black, offering a clean and sophisticated look.",
                         "colorways": ["White/University Gold/Black"],
@@ -325,7 +325,7 @@
                     {
                         "id": 25,
                         "name": "Air Jordan 1 Retro High OG 'Shattered Backboard 3.0'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH OG 'SHATTERED BACKBOARD 3.0'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_SHATTERED_BACKBOARD_3.0.jpg",
                         "price": 170,
                         "description": "The Air Jordan 1 Retro High OG 'Shattered Backboard 3.0' is the third iteration of the popular Shattered Backboard series. These sneakers feature a unique color scheme inspired by the orange and black uniform Michael Jordan wore during an exhibition game in Italy, offering a bold and iconic look.",
                         "colorways": ["Orange/Black/White"],
@@ -339,7 +339,7 @@
                     {
                         "id": 26,
                         "name": "Air Jordan 1 Retro High OG 'Gorge Green'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH OG 'GORGE GREEN'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_GORGE_GREEN.jpg",
                         "price": 170,
                         "description": "The Air Jordan 1 Retro High OG 'Gorge Green' showcases a striking color combination of gorge green, white, and black. These sneakers offer a bold and eye-catching look with premium materials and the iconic Air Jordan 1 silhouette.",
                         "colorways": ["Gorge Green/White/Black"],
@@ -352,7 +352,7 @@
                     {
                         "id": 27,
                         "name": "Air Jordan 1 Retro High OG 'Shadow 2.0'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH OG 'SHADOW 2.0'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_SHADOW_2.0.jpg",
                         "price": 170,
                         "description": "The Air Jordan 1 Retro High OG 'Shadow 2.0' puts a new twist on the classic Shadow colorway. These sneakers feature a combination of black, light smoke gray, and white, offering a sleek and versatile look.",
                         "colorways": ["Black/Light Smoke Gray/White"],
@@ -365,7 +365,7 @@
                     {
                         "id": 28,
                         "name": "A Ma Manière x Air Jordan 1 High OG 'Airness'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/A MA MANIÉRE X AIR JORDAN 1 HIGH OG 'AIRNESS'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/A_MA_MANIÉRE_X_AIR_JORDAN_1_RETRO_HIGH_OG_AIRNESS.jpg",
                         "price": 170,
                         "description": "The A Ma Manière x Air Jordan 1 High OG 'Airness' is a collaborative release with A Ma Manière boutique. These sneakers feature a luxurious and sophisticated design with premium materials and unique details, offering a refined and exclusive look.",
                         "colorways": ["White/Black/Grey"],
@@ -378,7 +378,7 @@
                     {
                         "id": 29,
                         "name": "Air Jordan 1 Retro High OG 'Pine Green 2.0'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH OG 'PINE GREEN 2.0'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_PINE_GREEN_2.0.jpg",
                         "price": 170,
                         "description": "The Air Jordan 1 Retro High OG 'Pine Green 2.0' offers a fresh take on the classic Pine Green colorway. These sneakers feature a combination of pine green, white, and black, providing a clean and vibrant look.",
                         "colorways": ["Pine Green/White/Black"],
@@ -391,7 +391,7 @@
                     {
                         "id": 30,
                         "name": "Air Jordan 1 Retro High OG 'Brotherhood'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH OG 'BROTHERHOOD'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_BROTHERHOOD.jpg",
                         "price": 170,
                         "description": "The Air Jordan 1 Retro High OG 'Brotherhood' pays tribute to the camaraderie and unity among basketball players. These sneakers feature a combination of royal blue, white, and black, offering a classic and timeless look.",
                         "colorways": ["Royal Blue/White/Black"],
@@ -404,7 +404,7 @@
                     {
                         "id": 31,
                         "name": "Air Jordan 1 Retro High '85 'Georgetown'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH '85 'GEORGETOWN'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_85_GEORGETOWN.jpg",
                         "price": 170,
                         "description": "The Air Jordan 1 Retro High '85 'Georgetown' pays homage to the Georgetown University basketball team. These sneakers feature a combination of navy blue, gray, and white, offering a classic and collegiate-inspired look.",
                         "colorways": ["Navy Blue/Gray/White"],
@@ -418,7 +418,7 @@
                     {
                         "id": 32,
                         "name": "Air Jordan 1 Retro High OG 'Stealth'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH OG 'STEALTH'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_STEALTH.jpg",
                         "price": 170,
                         "description": "The Air Jordan 1 Retro High OG 'Stealth' offers a sleek and stylish look with its combination of black, white, and stealth gray. These sneakers feature premium materials and the iconic Air Jordan 1 design.",
                         "colorways": ["Black/White/Stealth Gray"],
@@ -431,7 +431,7 @@
                     {
                         "id": 33,
                         "name": "Air Jordan 1 Retro High OG GS 'Patent Bred'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH OG GS 'PATENT BRED'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_GS_PATENT_BRED.jpg",
                         "price": 170,
                         "description": "The Air Jordan 1 Retro High OG GS 'Patent Bred' features a bold and vibrant colorway with its patent leather construction. These sneakers offer a sleek and glossy look, combining black and red tones.",
                         "colorways": ["Black/Red"],
@@ -444,7 +444,7 @@
                     {
                         "id": 34,
                         "name": "WMNS Air Jordan 1 High OG 'UNC to Chicago'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/WMNS AIR JORDAN 1 HIGH OG 'UNC TO CHICAGO'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/WMNS_AIR_JORDAN_1_RETRO_HIGH_OG_UNC_TO_CHICAGO.jpg",
                         "price": 170,
                         "description": "The WMNS Air Jordan 1 High OG 'UNC to Chicago' showcases a unique color transition from University Blue to Gym Red. These sneakers offer a striking and eye-catching look with premium materials and a combination of iconic colorways.",
                         "colorways": ["University Blue/Gym Red"],
@@ -457,7 +457,7 @@
                     {
                         "id": 35,
                         "name": "Air Jordan 1 High Golf 'Panda'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 HIGH GOLF 'PANDA'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_HIGH_GOLF_PANDA.jpg",
                         "price": 170,
                         "description": "The Air Jordan 1 High Golf 'Panda' is a unique golf shoe that takes inspiration from the classic Air Jordan 1 silhouette. These sneakers feature a black and white color scheme with a spikeless outsole, offering both style and functionality on the golf course.",
                         "colorways": ["Black/White"],
@@ -470,7 +470,7 @@
                     {
                         "id": 36,
                         "name": "Air Jordan 1 Retro High OG Utility 'Quai 54' 2022",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH OG UTILITY 'QUAI 54' 2022.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_UTILITY_QUAI_54_2022.jpg",
                         "price": 170,
                         "description": "The Air Jordan 1 Retro High OG Utility 'Quai 54' 2022 is a special edition sneaker released in conjunction with the annual Quai 54 street basketball tournament. These sneakers feature a unique design with vibrant colors, paying tribute to the tournament's vibrant and diverse culture.",
                         "colorways": ["Multi-Color"],
@@ -483,7 +483,7 @@
                     {
                         "id": 37,
                         "name": "Air Jordan 1 Retro High OG 'Shadow' 2018",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH OG 'SHADOW' 2018.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_SHADOW_2018.jpg",
                         "price": 170,
                         "description": "The Air Jordan 1 Retro High OG 'Shadow' 2018 is a reissue of the popular Shadow colorway from 1985. These sneakers feature a combination of black and medium gray, offering a versatile and classic look with a touch of nostalgia.",
                         "colorways": ["Black/Medium Gray"],
@@ -497,7 +497,7 @@
                     {
                         "id": 38,
                         "name": "WMNS Air Jordan 1 Retro High OG 'Silver Toe'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/WMNS AIR JORDAN 1 RETRO HIGH OG 'SILVER TOE'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/WMNS_AIR_JORDAN_1_RETRO_HIGH_OG_SILVER_TOE.jpg",
                         "price": 170,
                         "description": "The WMNS Air Jordan 1 Retro High OG 'Silver Toe' showcases a sleek and stylish design with its silver and black color scheme. These sneakers offer a luxurious and eye-catching look with premium materials and the iconic Air Jordan 1 silhouette.",
                         "colorways": ["Silver/Black"],
@@ -510,7 +510,7 @@
                     {
                         "id": 39,
                         "name": "Air Jordan 1 Retro High OG 'Bordeaux'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH OG 'BORDEAUX'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_BORDEAUX.jpg",
                         "price": 170,
                         "description": "The Air Jordan 1 Retro High OG 'Bordeaux' offers a sophisticated and luxurious look with its combination of burgundy, black, and white. These sneakers feature premium materials and a classic design, making them a versatile and stylish choice.",
                         "colorways": ["Bordeaux/Black/White"],
@@ -523,7 +523,7 @@
                     {
                         "id": 40,
                         "name": "Air Jordan 1 Retro High OG 'Game Royal'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH OG 'GAME ROYAL'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_GAME_ROYAL.jpg",
                         "price": 170,
                         "description": "The Air Jordan 1 Retro High OG 'Game Royal' offers a bold and vibrant look with its combination of game royal, black, and white. These sneakers feature premium materials and the iconic Air Jordan 1 design, making them a must-have for any sneaker enthusiast.",
                         "colorways": ["Game Royal/Black/White"],
@@ -536,7 +536,7 @@
                     {
                         "id": 41,
                         "name": "Nigel Sylvester x Air Jordan 1 Retro High OG 'Nigel Sylvester'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/NIGEL SYLVESTER X AIR JORDAN 1 RETRO HIGH OG 'NIGEL SYLVESTER'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/NIGEL_SYLVESTER_X_AIR_JORDAN_1_RETRO_HIGH_OG_NIGEL_SYLVESTER.jpg",
                         "price": 170,
                         "description": "The Nigel Sylvester x Air Jordan 1 Retro High OG 'Nigel Sylvester' is a special collaboration with BMX rider Nigel Sylvester. These sneakers feature a unique design inspired by Nigel's personal style and BMX culture, offering a distinctive and urban look.",
                         "colorways": ["Sail/Varsity Red"],
@@ -549,7 +549,7 @@
                     {
                         "id": 42,
                         "name": "Air Jordan 1 Retro High SB 'LA to Chicago'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH SB 'LA TO CHICAGO'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_SB_LA_TO_CHICAGO.jpg",
                         "price": 170,
                         "description": "The Air Jordan 1 Retro High SB 'LA to Chicago' is a special edition sneaker that pays homage to the journey from Los Angeles to Chicago. These sneakers feature a color-changing design that reveals Chicago-inspired colors when worn or aged, offering a unique and dynamic look.",
                         "colorways": ["Black/University Red"],
@@ -562,7 +562,7 @@
                     {
                         "id": 43,
                         "name": "Fragment Design x Air Jordan 1 Retro High OG",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/FRAGMENT DESIGN X AIR JORDAN 1 RETRO HIGH OG.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/FRAGMENT_DESIGN_X_AIR_JORDAN_1_RETRO_HIGH_OG.jpg",
                         "price": 170,
                         "description": "The Fragment Design x Air Jordan 1 Retro High OG is a highly sought-after collaboration with renowned designer Hiroshi Fujiwara. These sneakers feature a clean and minimalistic design with Fragment Design branding, offering a sophisticated and stylish look.",
                         "colorways": ["Black/White"],
@@ -575,7 +575,7 @@
                     {
                         "id": 44,
                         "name": "Air Jordan 1 Retro High OG 'Turbo Green'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH OG 'TURBO GREEN'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_TURBO_GREEN.jpg",
                         "price": 170,
                         "description": "The Air Jordan 1 Retro High OG 'Turbo Green' offers a unique and vintage-inspired look with its combination of turbo green, white, and light smoke gray. These sneakers feature a distressed and worn-in aesthetic, offering a stylish and fashionable choice.",
                         "colorways": ["Turbo Green/White/Light Smoke Gray"],
@@ -589,7 +589,7 @@
                     {
                         "id": 45,
                         "name": "Off-White x Air Jordan 1 Retro High OG 'White' 2018",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/OFF-WHITE X AIR JORDAN 1 RETRO HIGH OG 'WHITE' 2018.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/OFF-WHITE_X_AIR_JORDAN_1_RETRO_HIGH_OG_WHITE_2018.jpg",
                         "price": 170,
                         "description": "The Off-White x Air Jordan 1 Retro High OG 'White' 2018 is a highly sought-after collaboration between Off-White and Jordan Brand. These sneakers feature Virgil Abloh's signature deconstructed design with unique detailing and text throughout, offering a distinct and fashionable look.",
                         "colorways": ["White/White"],
@@ -602,7 +602,7 @@
                     {
                         "id": 46,
                         "name": "Air Jordan 1 Retro High OG 'Heirloom'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH OG 'HEIRLOOM'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_HEIRLOOM.jpg",
                         "price": 170,
                         "description": "The Air Jordan 1 Retro High OG 'Heirloom' offers a premium and luxurious look with its combination of black, metallic gold, and white. These sneakers feature premium materials and a sleek design, making them a sophisticated and stylish choice.",
                         "colorways": ["Black/Metallic Gold/White"],
@@ -615,7 +615,7 @@
                     {
                         "id": 47,
                         "name": "Air Jordan 1 High Zoom Comfort 'Chile Red'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 HIGH ZOOM COMFORT 'CHILE RED'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_HIGH_ZOOM_COMFORT_CHILE_RED.jpg",
                         "price": 170,
                         "description": "The Air Jordan 1 High Zoom Comfort 'Chile Red' offers a modern and comfortable twist to the classic Air Jordan 1 silhouette. These sneakers feature Zoom Air cushioning and a vibrant chile red colorway, offering both style and enhanced comfort.",
                         "colorways": ["Chile Red/White/Black"],
@@ -629,7 +629,7 @@
                     {
                         "id": 48,
                         "name": "Air Jordan 1 Retro High OG 'Patina'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH OG 'PATINA'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_PATINA.jpg",
                         "price": 170,
                         "description": "The Air Jordan 1 Retro High OG 'Patina' features a unique patina finish on its leather upper, offering a vintage and worn-in look. These sneakers showcase a combination of bronze, black, and sail colors, providing a stylish and distinct appearance.",
                         "colorways": ["Bronze/Black/Sail"],
@@ -642,7 +642,7 @@
                     {
                         "id": 49,
                         "name": "Air Jordan 1 Retro High OG PRM 'Yin Yang'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN 1 RETRO HIGH OG PRM 'YIN YANG'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_PRM_YIN_YANG.jpg",
                         "price": 170,
                         "description": "The Air Jordan 1 Retro High OG PRM 'Yin Yang' offers a clean and minimalistic design with its black and white color scheme. These sneakers feature premium materials and a timeless look, making them a versatile and stylish choice.",
                         "colorways": ["Black/White"],
@@ -655,7 +655,7 @@
                     {
                         "id": 50,
                         "name": "Lance Mountain x Air Jordan 1 Retro SB QS 'Black'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/LANCE MOUNTAIN X AIR JORDAN 1 RETRO SB QS 'BLACK'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/LANCE_MOUNTAIN_X_AIR_JORDAN_1_RETRO_HIGH_OG_SB_QS_BLACK.jpg",
                         "price": 170,
                         "description": "The Lance Mountain x Air Jordan 1 Retro SB QS 'Black' is a special collaboration with professional skateboarder Lance Mountain. These sneakers feature a unique design with black and white paint splatters, offering a rugged and artistic look inspired by the skateboarding culture.",
                         "colorways": ["Black/White"],
@@ -670,7 +670,7 @@
                     {
                         "id": 51,
                         "name": "Air Jordan 2 Retro",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/Air_Jordan_1_Retro_High_OG'LUCKY_GREEN'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/Air_Jordan_1_Retro_High_OG_LUCKY_GREEN.jpg",
                         "price": 160.00,
                         "description": "The Air Jordan 2 Retro features a sleek design and luxurious materials for a premium look and feel.",
                         "colorways": ["Black/Red", "White/Red", "Blue"],
@@ -684,7 +684,7 @@
                     {
                         "id": 52,
                         "name": "Air Jordan 3 Retro",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/Air_Jordan_1_Retro_High_OG'LUCKY_GREEN'.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/Air_Jordan_1_Retro_High_OG_LUCKY_GREEN.jpg",
                         "price": 160.00,
                         "description": "The Air Jordan 2 Retro features a sleek design and luxurious materials for a premium look and feel.",
                         "colorways": ["Black/Red", "White/Red", "Blue"],
