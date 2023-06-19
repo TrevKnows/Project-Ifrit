@@ -62,7 +62,7 @@
                     {
                         "id": 5,
                         "name": "Air Jordan 1 Retro High OG 'University Blue'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_UNIVERSITY BLUE.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_UNIVERSITY_BLUE.jpg",
                         "price": 150.00,
                         "description": "The Air Jordan 1 University Blue features a combination of white and University Blue leather on the upper with black accents. It offers a clean and stylish look with a pop of color.",
                         "colorways": ["White/University Blue/Black"],
@@ -75,7 +75,7 @@
                     {
                         "id": 6,
                         "name": "Air Jordan 1 Retro High OG 'Dark Mochas'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR JORDAN_1_RETRO_HIGH_OG_DARK_MOCHA.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_DARK_MOCHA.jpg",
                         "price": 150.00,
                         "description": "The Dark Mochas sneakers feature a sleek combination of dark brown, black, and sail tones. These Air Jordan 1s offer a sophisticated and stylish look with premium materials and a classic design.",
                         "colorways": ["Dark Brown/Black/Sail"],
@@ -167,7 +167,7 @@
                     {
                         "id": 13,
                         "name": "Air Jordan 1 Retro High OG 'Washed Black'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_WASHED_BLACK",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_WASHED_BLACK.jpg",
                         "price": 170,
                         "description": "The Air Jordan 1 Retro High OG 'Washed Black' showcases a worn-in, distressed aesthetic with its washed black leather upper. These sneakers offer a vintage and rugged look with a touch of timeless style.",
                         "colorways": ["Washed Black"],
@@ -670,7 +670,7 @@
                     {
                         "id": 51,
                         "name": "Air Jordan 2 Retro",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/Air_Jordan_1_Retro_High_OG_LUCKY_GREEN.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/Air_Jordan_1_Retro_High_OG.png",
                         "price": 160.00,
                         "description": "The Air Jordan 2 Retro features a sleek design and luxurious materials for a premium look and feel.",
                         "colorways": ["Black/Red", "White/Red", "Blue"],
@@ -684,9 +684,9 @@
                     {
                         "id": 52,
                         "name": "Air Jordan 3 Retro",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/Air_Jordan_1_Retro_High_OG_LUCKY_GREEN.jpg",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/Air_Jordan_1_Retro_High_OG.png",
                         "price": 160.00,
-                        "description": "The Air Jordan 2 Retro features a sleek design and luxurious materials for a premium look and feel.",
+                        "description": "The Air Jordan 3 Retro features a sleek design and luxurious materials for a premium look and feel.",
                         "colorways": ["Black/Red", "White/Red", "Blue"],
                         "release_date": "2023-05-01",
                         "sizes": ["US 8", "US 9", "US 10"],
