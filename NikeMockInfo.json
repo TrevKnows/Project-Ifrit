@@ -4,7 +4,7 @@
             
             {
                 
-                        "id": 1,
+                        "id": 53,
                         "name": "Air Jordan 1 Retro High OG",
                         "image_url": "https://trevknows.github.io/Project-Ifrit/images/Air_Jordan_1_Retro_High_OG.png",
                         "price": 150.00,
@@ -274,10 +274,10 @@
                         "id": 21,
                         "name": "Air Jordan 1 Retro High OG 'Dark Marina Blue'",
                         "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_DARK_MARINA_BLUE.jpg",
-                        "price": 170,
-                        "description": "The Air Jordan 1 Retro High OG 'Dark Marina Blue' showcases a rich and vibrant color scheme. These sneakers feature a combination of dark marina blue, black, and white, offering a bold and eye-catching look.",
-                        "colorways": ["Dark Marina Blue/Black/White"],
-                        "release_date": "2022-07-01",
+                        "price": 100,
+                        "description": "TThe Air Jordan 1 Retro High OG ‘Dark Marina Blue’ dresses the iconic silhouette in classic two-tone color blocking. The all-leather upper features a black base with contrasting dark blue overlays along the forefoot, heel, collar and eyestay. A matching blue Swoosh is accompanied by a Jordan Wings logo stamped in black on the lateral collar flap. Atop the nylon tongue, a woven Nike Air tag nods to the shoe’s retro cushioning technology: an Air-sole unit encapsulated in polyurethane nestled in the heel of the rubber cupsole.",
+                        "colorways": ["Blue/Black/White"],
+                        "release_date": "2001-10-01",
                         "sizes": ["US 8", "US 9", "US 10"],
                         "style_code": "987654-321",
                         "materials": ["Leather"],
@@ -693,7 +693,37 @@
                         "style_code": "555088-044",
                         "materials": ["Leather", "Suede"],
                         "collection": "Air Jordan 3"
+                    },
+                    
+                    {
+                        "id": 1,
+                        "name": "Air Jordan 1 Retro High OG 'Bred'",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_BRED.png",
+                        "price": 100.00,
+                        "description": "Banned by the NBA in 1985, Michael Jordan was charged $5,000 per game for wearing the Air Jordan 1 ‘Black/Red' because they didn’t include the color white which was part of the Chicago Bulls’ official team colors. Used as a marketing tactic, Nike crafted the ‘Banned’ campaign around the sneakers to launch and promote the Air Jordan line. The sneaker was retroed in 1994, 2011, 2013 and 2016. The 2011 pair features an ‘X’ on the heel paying homage to the 'Banned' nickname.",
+                        "colorways": ["Black/Red"],
+                        "release_date": "2001-05-01",
+                        "sizes": ["US 8", "US 9", "US 10"],
+                        "style_code": "555088-044",
+                        "materials": ["Leather", "Suede"],
+                        "collection": "Air Jordan 1"
+                    },
+                    
+                    {
+                        "id": 54,
+                        "name": "Air Jordan 1 Retro KO High 'Sport Blue'",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/Air_Jordan_1_Retro_KO_High_Sport_Blue.png",
+                        "price": 140.00,
+                        "description": "The Jordan Brand brought back the Air Jordan 1 KO High in a Sport Blue colorway in August 2014. A canvas successor to the original 1985 silhouette, the high-top swaps out the traditional AJ1 tooling for a midsole reminiscent of the Nike Vandal. The distinctive black and blue color blocking, similar to the iconic ‘Royal’ colorway of the Air Jordan 1, is featured on a full canvas build, complemented with a leather Swoosh and Nike branding on the lightly padded nylon tongue.",
+                        "colorways": ["Black/Blue"],
+                        "release_date": "2001-05-01",
+                        "sizes": ["US 8", "US 9", "US 10"],
+                        "style_code": "555088-044",
+                        "materials": ["Leather", "Suede"],
+                        "collection": "Air Jordan 1"
                     }
+                    
+                    
                   
         ]
     }
