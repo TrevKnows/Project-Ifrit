@@ -49,11 +49,11 @@
                         "id": 4,
                         "name": "Air Jordan 1 Retro High OG 'White Cement'",
                         "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_WHITE_CEMENT.jpg",
-                        "price": 150.00,
-                        "description": "The Air Jordan 4 White Cement features a white leather upper with cement gray and black accents. It showcases a classic and timeless design that has become highly sought after by sneaker enthusiasts.",
+                        "price": 125.00,
+                        "description": "Retro inspires retro with the Air Jordan 1 Retro High OG 'White Cement,' featuring the iconic elephant print from by the Air Jordan 3. The high-top sneaker displays a sleek grey leather overlay against a pristine white leather base with black leather accents on the collar and Swoosh. The tongue is marked with a woven Nike Air tag, and the lateral collar is stamped with the iconic Wings logo. Cushioned comfort is guaranteed with Air-sole technology in the midsole while the aged off-white midsole sits on a durable grey rubber outsole.",
                         "colorways": ["White/Cement", "Gray/Black"],
-                        "release_date": "1989",
-                        "sizes": ["Various sizes"],
+                        "release_date": "2023-06-05",
+                        "sizes": ["grey/muslin/black/white"],
                         "style_code": "840606-192",
                         "materials": ["Leather", "Synthetic"],
                         "collection": "Air Jordan 1"
@@ -363,23 +363,10 @@
                         "collection": "Air Jordan 1"
                     },
                     {
-                        "id": 28,
-                        "name": "A Ma Manière x Air Jordan 1 High OG 'Airness'",
-                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/A_MA_MANIÉRE_X_AIR_JORDAN_1_RETRO_HIGH_OG_AIRNESS.jpg",
-                        "price": 170,
-                        "description": "The A Ma Manière x Air Jordan 1 High OG 'Airness' is a collaborative release with A Ma Manière boutique. These sneakers feature a luxurious and sophisticated design with premium materials and unique details, offering a refined and exclusive look.",
-                        "colorways": ["White/Black/Grey"],
-                        "release_date": "2023-03-01",
-                        "sizes": ["US 8", "US 9", "US 10"],
-                        "style_code": "456123-789",
-                        "materials": ["Leather"],
-                        "collection": "Air Jordan 1"
-                    },
-                    {
                         "id": 29,
                         "name": "Air Jordan 1 Retro High OG 'Pine Green 2.0'",
                         "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_PINE_GREEN_2.0.jpg",
-                        "price": 170,
+                        "price": 160,
                         "description": "The Air Jordan 1 Retro High OG 'Pine Green 2.0' offers a fresh take on the classic Pine Green colorway. These sneakers feature a combination of pine green, white, and black, providing a clean and vibrant look.",
                         "colorways": ["Pine Green/White/Black"],
                         "release_date": "2023-04-01",
@@ -721,7 +708,91 @@
                         "style_code": "555088-044",
                         "materials": ["Leather", "Suede"],
                         "collection": "Air Jordan 1"
+                    },
+                    {
+                        "id": 55,
+                        "name": "Air Jordan 1 Retro OG High 'Jeter'",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_JETERS.jpg",
+                        "price": 160.00,
+                        "description": "The ‘Jeter’ colorway celebrated Derek Jeter’s retirement from baseball with a Yankees-inspired theme. Other features include metallic gold Jeter logos on the tongues, Wings logos on the ankles, and Jumpman logos on the heels. Released in September 2014, the shoe was released at Foot Action's Flight 23 in NYC alongside a similar colorway of the Flight Flex Trainer.",
+                        "colorways": ["Black/Blue/White"],
+                        "release_date": "2014-09-01",
+                        "sizes": ["US 8", "US 9", "US 10"],
+                        "style_code": "555088-044",
+                        "materials": ["Leather", "Suede"],
+                        "collection": "Air Jordan 1"
                     }
+                    ,
+                    {
+                        "id": 56,
+                        "name": "Air Jordan 1 Retro OG High 'Washed Black'",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_WASHED_BLACK.jpg",
+                        "price": 160.00,
+                        "description": "The Air Jordan 1 Retro High OG 'Washed Black' is an updated version of the classic silhouette and features a neutral color palette. The leather upper appears in white with grey suede overlays and a matching Swoosh logo. The high-cut collar appears in a lighter shade of grey suede and has an ankle flap with the trademark Wings logo. The breathable nylon tongue features a woven black and red Nike tag which provides a subtle pop of color. The shoe is supported by a traditional off-white midsole atop a black rubber outsole for excellent grip.",
+                        "colorways": ["Grey/White"],
+                        "release_date": "2023-10-06",
+                        "sizes": ["US 8", "US 9", "US 10"],
+                        "style_code": "555088-044",
+                        "materials": ["Leather", "Suede"],
+                        "collection": "Air Jordan 1"
+                    },
+                    {
+                        "id": 57,
+                        "name": "MARVEL X AIR JORDAN 1 RETRO HIGH OG 'NEXT CHAPTER'",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/MARVEL_X_AIR_JORDAN_1_RETRO_HIGH_OG_NEXT_CHAPTER.jpg",
+                        "price": 210.00,
+                        "description": "The Marvel x Air Jordan 1 Retro High OG ‘Next Chapter' is a collaboration whose colorway is inspired by the animated film 'Spider-Man: Across the Spider-Verse.’ This version of the iconic sneaker model is a creative twist on the classic ‘Chicago’ colorway, with a white leather upper and black patent leather on the signature Swoosh and collar. The scarlet overlays are a combination of various textures and prints, pieced together to create a unique design that references the complex nature of the Spiderman universe. The shoe is supported by a rubber cupsole that combines aged sidewalls with a crimson semi-clear rubber outsole. A Nike tag made of woven nylon decorates the tongue while the retro Wings logo is stamped on the lateral collar flap.",
+                        "colorways": ["Red/White/Black"],
+                        "release_date": "2023-05-20",
+                        "sizes": ["US 8", "US 9", "US 10"],
+                        "style_code": "555088-044",
+                        "materials": ["Leather", "Suede"],
+                        "collection": "Air Jordan 1"
+                    },
+                    {
+                        "id": 58,
+                        "name": "Air Jordan 1 Retro OG High 'Palomino'",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_PALOMINO.jpg",
+                        "price": 312.00,
+                        "description": "The Air Jordan 1 Retro High OG 'Palomino' combines a lavish design with classic color blocking inspired by the original version. The legendary shoe boasts a black leather upper with weathered brown nubuck accents on the toe box, heel overlay, collar flap and Swoosh. The lateral side of the collar flap features a black Wings logo, while a Nike logo in metallic gold lettering adorns the woven tongue tag. The midsole is finished in an off-white shade and features enclosed Air-sole cushioning and stitched sidewall construction. The brown rubber outsole has a grip pattern that provides optimal traction on the court.",
+                        "colorways": ["Red/Brown/Black"],
+                        "release_date": "2023-02-09",
+                        "sizes": ["US 8", "US 9", "US 10"],
+                        "style_code": "555088-044",
+                        "materials": ["Leather", "Suede"],
+                        "collection": "Air Jordan 1"
+                    },
+                    
+                    ,
+                    {
+                        "id": 59,
+                        "name": "Air Jordan 1 Retro OG High 'Electro Orange'",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_ELECTRO_ORANGE.jpg",
+                        "price": 165,
+                        "description": ""],
+                        "colorways": ["White/Orange/Black"],
+                        "release_date": "2021-17-07",
+                        "sizes": ["US 8", "US 9", "US 10"],
+                        "style_code": "555088-044",
+                        "materials": ["Leather", "Suede"],
+                        "collection": "Air Jordan 1"
+                    },
+                    {
+                        "id": 60,
+                        "name": "Air Jordan 1 Retro OG High 'Stealth'",
+                        "image_url": "https://trevknows.github.io/Project-Ifrit/images/AIR_JORDAN_1_RETRO_HIGH_OG_STEALTH.jpg",
+                        "price": 141,
+                        "description": "The iconic original is delivered in a refined color palette with the Air Jordan 1 Retro High OG ‘Stealth.’ The toe box with airy perforations, heel and collar overlays and signature Swoosh all appear in light grey leather against a base of white. Nike Air branding appears on the ventilated nylon tongue tag and the collar is adorned with a classic Wings logo. A traditional rubber cupsole forms the foundation of the shoe and features an interior Air-sole unit in the heel for cushioned comfort."],
+                        "colorways": ["White/Grey"],
+                        "release_date": "2022-30-08",
+                        "sizes": ["US 8", "US 9", "US 10"],
+                        "style_code": "555088-044",
+                        "materials": ["Leather", "Suede"],
+                        "collection": "Air Jordan 1"
+                    },
+                    
+                    
+                    
                     
                     
                   
